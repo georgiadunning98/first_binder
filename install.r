@@ -1,2 +1,2 @@
-install.packages(c("tidyverse", "ggrepel", "extrafont", "dplyr", "ggthemes"))
+install.packages(c("ggrepel", "extrafont", "dplyr", "ggthemes"))
 
